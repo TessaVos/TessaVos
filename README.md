@@ -1,6 +1,6 @@
 ## 👋 Introduction
 
-Hi guys, I'm **Tessa Vos**. I am a software developer from the Netherlands. I have special interest in AI and game development. Feel free to contact me if you have same interests or some questions!
+Hi, I'm **Tessa Vos**. I am a software developer from the Netherlands. I have special interest in AI and game development. Feel free to contact me if you have same interests or some questions!
 
 ## 💡 Highlighted GitHub projects
 - [**Wase Engine**](https://github.com/Wase-Engine): An open source 2D game engine written in C++.
